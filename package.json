@@ -1,0 +1,32 @@
+{
+  "name": "express-gone",
+  "version": "1.0.0",
+  "description": "Send Status Code 410 for a single or list of paths.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/WORMSS/express-gone",
+    "type": "git"
+  },
+  "keywords": [
+    "express",
+    "gone",
+    "410",
+    "status",
+    "code",
+    "removed"
+  ],
+  "author": {
+    "name": "Colin Richardson",
+    "url": "https://github.com/WORMSS",
+    "email": "wormssmail@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WORMSS/express-gone/issues"
+  },
+  "homepage": "https://github.com/WORMSS/express-gone#readme",
+  "dependencies": {}
+}
